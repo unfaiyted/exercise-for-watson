@@ -61,7 +61,7 @@ concatenated result. If two numbers are provided, then return the string concate
 
 9. Create a function that calculates the winner in a Rock, Paper Scissors game. 
 
-    ```
+    ```js
     rps('scissors','paper') // Player 1 won!
     rps('scissors','rock') // Player 2 won!
     rps('paper','paper') // Draw!
